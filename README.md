@@ -1,9 +1,8 @@
 <div align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=1000&color=F7F7F7&background=6646FF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Hello+There!;+;Welcome+to+my+Github+Profile." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=750&color=F7F7F7&background=6646FF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Hello+There!;+;Welcome+to+my+Github+Profile." alt="Typing SVG"/>
   </a>
 </div>
-
 
 ## 🧑‍💻 About me
 - **🐍 Python Backend engineer** with over 3 years of experience in software development, including some full-stack projects.
@@ -11,77 +10,85 @@
 - **📚 Actively expanding** my skills in both backend and frontend development to become a **Full Stack Developer**.
 - **🚀 Committed** to continuous learning to stay ahead in an ever-evolving tech landscape.
 
-## 🔧 Technologies & Tools
+## 📬 Contact Me
+<section align="center">
+  <a href="mailto:niki_landgelo@outlook.com" style="text-decoration: none;">
+    <img src="./assets/email.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Email"/>
+  </a>
+  <a href="https://t.me/niki_landgelo" style="text-decoration: none;">
+    <img src="./assets/telegram.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Email"/>
+  </a>
+</section>
 
+<div style="display: flex; flex-flow: column wrap; row-gap: 3vh; align-items: center;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 2vw; align-items: center; justify-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nikilandgelo&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&line_height=40&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=compact"/>
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikilandgelo&theme=tokyo-night&hide_border=true&radius=15"/>
+</div>
+
+## 📂 My Projects
+<section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(275px, 1fr)); row-gap: 3vh; column-gap: 5vw;">
+    <a href="https://github.com/Nikilandgelo/inspiration_frontend" style="text-decoration: none;">
+      <div style="background-color: #242938; border-radius: 15px; box-sizing: border-box; padding: 25px;">
+        <p style="color: #61DAFB; font-weight: bold;">inspiration_frontend (Full-Stack Project)</p>
+        <p style="color: white;">Solo project for local organization featuring a responsive frontend and a lightweight backend. The entire application is containerized using Docker for seamless setup and deployment, with Nginx serving as the web server.</p>
+      </div>
+    </a>
+  <div style="background-color: #242938; border-radius: 15px; padding: 25px;">
+    <p>Soon...</p>
+  </div>
+</section>
+
+## 🔧 Technologies & Tools That I Use
 ### Languages
-<p>
-  <img src="https://github.com/user-attachments/assets/bf894fcf-820a-481f-b56f-7643efd38dd5" alt="Python">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/47010426-77d7-4009-afc2-ce14d9e3f675" alt="JavaScript">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/c1e050b1-8ca2-4ec7-9dd5-27a084c5588c" alt="HTML">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/38839af0-2c9b-4f7a-984e-e6b2291a2551" alt="CSS3">
-</p>
+<section>
+  <img src="./assets/python.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Python">
+  <img src="./assets/js.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="JavaScript">
+  <img src="./assets/html.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="HTML">
+  <img src="./assets/css.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="CSS3">
+</section>
 
 ### Frameworks
-<p>
-  <img src="https://github.com/user-attachments/assets/65d8da51-de2c-40cf-8f70-5321767984ab" alt="Django">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/10c2c032-b5f2-4f35-8851-c91f4ef5e9ee" alt="Flask">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/6388cfa0-4434-48cb-a8ae-1bd456634c69" alt="Aiohttp">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/3e842455-88fd-4864-8041-efd2beb413bb" alt="React">
-</p>
+<section>
+  <img src="./assets/django.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Django">
+  <img src="./assets/flask.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Flask">
+  <img src="./assets/aiohttp.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Aiohttp">
+  <img src="./assets/react.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="React">
+</section>
 
-Pydantic
 ### Tools & Libraries
-<p>
-  <img src="https://github.com/user-attachments/assets/aa2eb444-fc10-47e1-95ed-1f976f141923" alt="Postman">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/0a4abcc2-7fb7-441e-b96c-489b03b938a8" alt="SQLAlchemy">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/307a6807-2536-426e-972d-21d08bce2737" alt="SCSS">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/828a757e-b241-45d2-90b7-e9b1ba88b12b" alt="FramerMotion">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/686fe71f-9723-40d5-a30b-cec978c336df" alt="ESLint">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/e799c611-bfae-4b77-9037-8b790bbf8285" alt="Swiper">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/515944e3-a09a-469d-a149-1f1cad9f1065" alt="Notion">
-  &nbsp;&nbsp;&nbsp;
-</p>
+<section>
+  <img src="./assets/postman.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Postman">
+  <img src="./assets/sqlalchemy.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="SQLAlchemy">
+  <img src="./assets/pydantic.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Pydantic">
+  <img src="./assets/scss.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="SCSS">
+  <img src="./assets/framer-motion.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="FramerMotion">
+  <img src="./assets/eslint.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="ESLint">
+  <img src="./assets/swiper.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Swiper">
+  <img src="./assets/notion.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Notion">
+</section>
 
 ### Databases
-<p>
-  <img src="https://github.com/user-attachments/assets/90527f4d-eee4-4027-b6c8-696d442e8725" alt="PostgreSQL">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/982d7e85-5655-4936-a558-8ed53f73bdef" alt="SQLite">
-  &nbsp;&nbsp;&nbsp;
-</p>
+<section>
+  <img src="./assets/postgresql.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="PostgreSQL">
+  <img src="./assets/sqlite3.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="SQLite">
+</section>
 
 ### CI/CD
-<p>
-  <img src="https://github.com/user-attachments/assets/3e1b3d55-6199-406a-9a30-aa72e219a8cb" alt="GitHub Actions">
-  &nbsp;&nbsp;&nbsp;
-</p>
+<section>
+  <img src="./assets/actions.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="GitHub Actions">
+</section>
 
 ### Server & Deployment
-<p>
-  <img src="https://github.com/user-attachments/assets/e9a955c9-a6dd-43b7-ba3e-593787998900" alt="Docker">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/0130977b-7517-4c4d-a79c-48ba386e3fdd" alt="Nginx">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/7dec3f0d-2657-4ea9-acff-6162f97fcf56" alt="Ubuntu">
-  &nbsp;&nbsp;&nbsp;
-</p>
+<section>
+  <img src="./assets/docker.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Docker">
+  <img src="./assets/nginx.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Nginx">
+  <img src="./assets/ubuntu.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="Ubuntu">
+</section>
 
 ### IDE
-<p>
-  <img src="https://github.com/user-attachments/assets/82e66122-ad28-496e-9bc3-1170dcda7f0d" alt="VSCode">
-  &nbsp;&nbsp;&nbsp;
-</p>
-
-## 📂 Projects
+<section>
+  <img src="./assets/vscode.svg" height="90px" width="90px" style="margin-bottom: 25px; margin-right: 25px;" alt="VSCode">
+</section>
