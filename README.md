@@ -21,11 +21,11 @@
 ## 📊 Stats & Activity
 <section align="center">
   <a>
-    <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&hide_border=true&border_radius=15"/>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&hide_border=true&border_radius=15"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=Nikilandgelo&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&line_height=40&rank_icon=github"/>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=Nikilandgelo&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&line_height=40&rank_icon=github"/>
   </a>
   <br><br>
   <a>
