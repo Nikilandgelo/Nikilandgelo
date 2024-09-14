@@ -12,7 +12,7 @@
 
 ## 📂 My Top Projects
 <section align="center">
-  <a href="https://github.com/Nikilandgelo/inspiration_frontend"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=inspiration_frontend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
+  <a href="https://github.com/Nikilandgelo/online_store_backend"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=online_store_backend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nikilandgelo/inspiration_frontend"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=inspiration_frontend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
   <br><br>
