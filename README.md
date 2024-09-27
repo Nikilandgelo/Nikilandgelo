@@ -11,10 +11,12 @@
 - **🚀 Committed** to continuous learning to stay ahead in an ever-evolving tech landscape.
 
 ## 📂 My Top Projects
-<section align="center">
+<section>
   <a href="https://github.com/Nikilandgelo/online_store_backend"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=online_store_backend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nikilandgelo/inspiration_frontend"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=inspiration_frontend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
+  <br><br>
+  <a href="https://github.com/Nikilandgelo/ParsingXMLgoodsAndFindSimilar"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=ParsingXMLgoodsAndFindSimilar&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
   <br><br>
 </section>
 
