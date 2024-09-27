@@ -12,10 +12,10 @@
 
 ## 📂 My Top Projects
 <section>
-  <a href="https://github.com/Nikilandgelo/online_store_backend"><img align="left" height=175 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=online_store_backend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
-  <a href="https://github.com/Nikilandgelo/inspiration_frontend"><img align="right" height=175 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=inspiration_frontend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
+  <a href="https://github.com/Nikilandgelo/online_store_backend"><img align="left" height=170 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=online_store_backend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
+  <a href="https://github.com/Nikilandgelo/inspiration_frontend"><img align="right" height=170 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=inspiration_frontend&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
   <br><br><br><br><br><br><br><br><br>
-  <a href="https://github.com/Nikilandgelo/ParsingXMLgoodsAndFindSimilar"><img align="center" height=175 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=ParsingXMLgoodsAndFindSimilar&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
+  <a href="https://github.com/Nikilandgelo/ParsingXMLgoodsAndFindSimilar"><img align="center" height=170 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=ParsingXMLgoodsAndFindSimilar&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
   <br><br>
 </section>
 
@@ -24,7 +24,7 @@
   <a><img align="left" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&hide_border=true&border_radius=15"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a><img align="right" height=250 src="https://github-readme-stats.vercel.app/api?username=Nikilandgelo&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&line_height=40&rank_icon=github"/></a>
-  <br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br>
   <a><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikilandgelo&theme=tokyo-night&hide_border=true&radius=15"/></a>
   <br><br>
 </section>
@@ -104,5 +104,5 @@
   <a href="mailto:niki_landgelo@outlook.com"><img src="./assets/email.svg" height="100px" width="100px" alt="Email"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/niki_landgelo"><img src="./assets/telegram.svg" height="100px" width="100px" alt="Email"/></a>
-  <br><br><br>
+  <br><br>
 </section>
