@@ -17,9 +17,10 @@
   <br><br><br><br><br><br><br><br><br>
   <a href="https://github.com/Nikilandgelo/ParsingXMLgoodsAndFindSimilar"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=ParsingXMLgoodsAndFindSimilar&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
   <a href="https://github.com/Nikilandgelo/referalAPI_test_task"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=referalAPI_test_task&theme=tokyonight&&hide_border=true&border_radius=15"/></a>
-  <br><br><br><br>
+  <br><br>
 </section>
 
+<br><br><br><br>
 ## 📊 Stats & Activity
 <section>
   <a><img align="left" height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&hide_border=true&border_radius=15"/></a>
