@@ -47,7 +47,7 @@
 <section>
   <img src="./assets/django.svg" height="90px" width="90px" alt="Django">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/flask.svg" height="90px" width="90px" alt="Flask">
+  <img src="./assets/fastapi.svg" height="90px" width="90px" alt="FastApi">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/aiohttp.svg" height="90px" width="90px" alt="Aiohttp">
   <br><br>
@@ -77,7 +77,7 @@
 <section>
   <img src="./assets/postgresql.svg" height="90px" width="90px" alt="PostgreSQL">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/dbeaver.svg" height="90px" width="90px" alt="DBeaver">
+  <img src="./assets/datagrip.svg" height="90px" width="90px" alt="DataGrip">
 </section>
 
 ### CI/CD
@@ -96,6 +96,8 @@
 
 ### IDE
 <section>
+  <img src="./assets/pycharm.svg" height="90px" width="90px" alt="PyCharm">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/vscode.svg" height="90px" width="90px" alt="VSCode">
   <br><br>
 </section>
