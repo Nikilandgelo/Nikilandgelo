@@ -16,7 +16,6 @@
   <a href="https://github.com/Nikilandgelo/ParsingXMLgoodsAndFindSimilar"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=ParsingXMLgoodsAndFindSimilar&theme=tokyonight&hide_border=true&border_radius=15"/></a>
   <br><br><br><br><br><br><br><br><br>
   <a href="https://github.com/Nikilandgelo/referalAPI_test_task"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=referalAPI_test_task&theme=tokyonight&hide_border=true&border_radius=15"/></a>
-  <a href="https://github.com/Nikilandgelo/workmate_tasks"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Nikilandgelo&repo=workmate_tasks&theme=tokyonight&hide_border=true&border_radius=15"/></a>
   <br><br>
 </section>
 
