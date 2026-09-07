@@ -8,16 +8,9 @@
 - **🐍 Python Backend engineer** with over 3 years of experience in software development, including some full-stack projects.
 
 ## 📊 Stats & Activity
-<section>
-  <a>
-    <img align="left" height=225 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <img align="right" height=225 src="https://github-stats-extended.vercel.app/api?username=Nikilandgelo&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&line_height=40&rank_icon=github"/>
-  </a>
-</section>
-<br><br><br><br><br><br><br><br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nikilandgelo&layout=compact&hide_title=true&langs_count=6&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=Nikilandgelo&layout=compact&hide_title=true&langs_count=6&theme=codeSTACKr)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nikilandgelo&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=Nikilandgelo&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 
 ## 🔧 Technologies & Tools That I Use
 ### Languages
