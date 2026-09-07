@@ -10,12 +10,16 @@
 <br><br>
 ## 📊 Stats & Activity
 <section>
-  <a><img align="left" height=225 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&hide_border=true&border_radius=15"/></a>
+  <a>
+    <img align="left" height=225 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nikilandgelo&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&hide_border=true&border_radius=15"/>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a><img align="right" height=225 src="https://github-stats-extended.vercel.app/api?username=Nikilandgelo&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&line_height=40&rank_icon=github"/></a>
+  <a>
+    <img align="right" height=225 src="https://github-stats-extended.vercel.app/api?username=Nikilandgelo&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&line_height=40&rank_icon=github"/>
+  </a>
 </section>
+<br><br><br><br><br><br><br><br>
 
-<br><br>
 ## 🔧 Technologies & Tools That I Use
 ### Languages
 <section>
