@@ -6,9 +6,6 @@
 
 ## 🧑‍💻 About Me
 - **🐍 Python Backend engineer** with over 3 years of experience in software development, including some full-stack projects.
-- **⚙️ Specialize** in building efficient, scalable server-side applications with working knowledge of frontend technologies. 
-- **📚 Actively expanding** my skills in both backend and frontend development to become a **Full Stack Developer**.
-- **🚀 Committed** to continuous learning to stay ahead in an ever-evolving tech landscape.
 
 ## 📂 My Top Projects
 <section>
