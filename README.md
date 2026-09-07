@@ -7,7 +7,6 @@
 ## 🧑‍💻 About Me
 - **🐍 Python Backend engineer** with over 3 years of experience in software development, including some full-stack projects.
 
-<br><br>
 ## 📊 Stats & Activity
 <section>
   <a>
