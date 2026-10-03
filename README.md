@@ -43,15 +43,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/pydantic.svg" height="90px" width="90px" alt="Pydantic">
   <br><br>
-  <img src="./assets/scss.svg" height="90px" width="90px" alt="SCSS">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/framer-motion.svg" height="90px" width="90px" alt="FramerMotion">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/eslint.svg" height="90px" width="90px" alt="ESLint">
-  <br><br>
-  <img src="./assets/swiper.svg" height="90px" width="90px" alt="Swiper">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/notion.svg" height="90px" width="90px" alt="Notion">
 </section>
 
 ### Databases
